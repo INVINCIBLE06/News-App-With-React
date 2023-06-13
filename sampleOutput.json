@@ -1,0 +1,936 @@
+{
+    "status": "ok",
+    "totalResults": 0,
+    "articles": [
+    {
+    "title": "The Morning After: Is the 15-inch MacBook Air any good?",
+    "author": "Daniel Cooper",
+    "source": {
+    "Id": "engadget",
+    "Name": "Engadget"
+    },
+    "publishedAt": "2023-06-13T11:15:47Z",
+    "url": "https://www.engadget.com/the-morning-after-is-the-15-inch-macbook-air-any-good-111547012.html"
+    },
+    {
+    "title": "The best recent crime and thriller writing – review roundup",
+    "author": "Alison Flood",
+    "source": {
+    "Id": null,
+    "Name": "The Guardian"
+    },
+    "publishedAt": "2023-06-13T08:00:43Z",
+    "url": "https://www.theguardian.com/books/2023/jun/13/the-best-recent-and-thriller-writing-review-roundup-black-river-nilanjana-roy-standing-in-shadows-peter-robinson-a-death-in-parish-richard-coles"
+    },
+    {
+    "title": "Apple is within a hair's breadth of a historic $3 trillion valuation one week after unveiling its Vision Pro",
+    "author": "Huileng Tan",
+    "source": {
+    "Id": "business-insider",
+    "Name": "Business Insider"
+    },
+    "publishedAt": "2023-06-13T02:39:03Z",
+    "url": "https://markets.businessinsider.com/news/stocks/apple-trillion-historic-valuation-after-unveiling-vision-pro-iphone-2023-6"
+    },
+    {
+    "title": "Billionaire investor Ray Dalio says the AI craze could fuel a productivity boom - or drive massive disorder",
+    "author": "George Glover",
+    "source": {
+    "Id": "business-insider",
+    "Name": "Business Insider"
+    },
+    "publishedAt": "2023-06-13T09:05:29Z",
+    "url": "https://markets.businessinsider.com/news/stocks/ray-dalio-billionaire-investor-bridgewater-ai-chatgpt-risks-elon-musk-2023-6"
+    },
+    {
+    "title": "Billionaire Larry Ellison's fortune beats Bill Gates for the first time as Oracle gets a boost from the AI craze",
+    "author": "Zahra Tayeb",
+    "source": {
+    "Id": "business-insider",
+    "Name": "Business Insider"
+    },
+    "publishedAt": "2023-06-13T10:11:12Z",
+    "url": "https://markets.businessinsider.com/news/stocks/larry-ellison-wealth-surges-past-bill-gates-artificial-intelligence-ai-2023-6"
+    },
+    {
+    "title": "Ya sabemos de qué son capaces las carísimas Vision Pro de Apple. Ahora el misterio reside en cómo las venderá",
+    "author": "Javier Lacort",
+    "source": {
+    "Id": null,
+    "Name": "Xataka.com"
+    },
+    "publishedAt": "2023-06-13T11:01:41Z",
+    "url": "https://www.xataka.com/realidad-virtual-aumentada/sabemos-que-capaces-carisimas-vision-pro-apple-ahora-misterio-reside-como-vendera"
+    },
+    {
+    "title": "10 ChatGPT Alternatives for Marketers",
+    "author": "esantiago@hubspot.com (Erica Santiago)",
+    "source": {
+    "Id": null,
+    "Name": "Hubspot.com"
+    },
+    "publishedAt": "2023-06-13T11:00:00Z",
+    "url": "https://blog.hubspot.com/marketing/chatgpt-alternative#article"
+    },
+    {
+    "title": "Ende für Mail-Plug-ins in macOS 14: Apple macht ernst",
+    "author": "Ben Schwan",
+    "source": {
+    "Id": null,
+    "Name": "heise online"
+    },
+    "publishedAt": "2023-06-13T07:10:00Z",
+    "url": "https://www.heise.de/news/Ende-fuer-Mail-Plug-ins-in-macOS-14-Apple-macht-ernst-9185351.html"
+    },
+    {
+    "title": "heise+ | Node-Red: Dynamische Landkarten Schritt für Schritt erstellen",
+    "author": "Andrijan Möcker",
+    "source": {
+    "Id": null,
+    "Name": "heise online"
+    },
+    "publishedAt": "2023-06-13T10:30:00Z",
+    "url": "https://www.heise.de/ratgeber/Node-Red-Dynamische-Landkarten-Schritt-fuer-Schritt-erstellen-9178731.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+    },
+    {
+    "title": "FAQ: Einloggen mit Passkeys statt Passwörtern",
+    "author": "Ronald Eikenberg",
+    "source": {
+    "Id": null,
+    "Name": "heise online"
+    },
+    "publishedAt": "2023-06-13T04:25:00Z",
+    "url": "https://www.heise.de/ratgeber/FAQ-Einloggen-mit-Passkeys-statt-Passwoertern-9067746.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+    "title": "heise+ | Wie Sie eine Radarfalle mit Pi-Cam selber bauen",
+    "author": "Ed Hume",
+    "source": {
+    "Id": null,
+    "Name": "heise online"
+    },
+    "publishedAt": "2023-06-13T07:30:00Z",
+    "url": "https://www.heise.de/ratgeber/Wie-Sie-eine-Radarfalle-mit-Pi-Cam-selber-bauen-9065388.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+    },
+    {
+    "title": "Cómo solicitar el Bono Cultural Joven 2023 de 400 euros a través de internet",
+    "author": "José Alberto Lizana",
+    "source": {
+    "Id": null,
+    "Name": "Genbeta.com"
+    },
+    "publishedAt": "2023-06-13T08:34:25Z",
+    "url": "https://www.genbeta.com/paso-a-paso/como-solicitar-bono-cultural-joven-2023-400-euros-a-traves-internet"
+    },
+    {
+    "title": "New Mac Pro has 'Product of Thailand' label, but is assembled in US",
+    "author": "news@appleinsider.com (William Gallagher)",
+    "source": {
+    "Id": null,
+    "Name": "AppleInsider"
+    },
+    "publishedAt": "2023-06-13T11:09:50Z",
+    "url": "https://appleinsider.com/articles/23/06/13/new-mac-pro-has-product-of-thailand-label-but-is-assembled-in-us"
+    },
+    {
+    "title": "Using macOS Disk Utility: How to repair Fusion Drives, and using command-line utilities",
+    "author": "news@appleinsider.com (Chip Loder)",
+    "source": {
+    "Id": null,
+    "Name": "AppleInsider"
+    },
+    "publishedAt": "2023-06-13T10:40:09Z",
+    "url": "https://appleinsider.com/inside/macos/tips/using-macos-disk-utility-how-to-repair-fusion-drives-and-using-command-line-utilities"
+    },
+    {
+    "title": "古きも良きだね！ 1940年代から復刻された軍用時計を試してみた",
+    "author": "junior",
+    "source": {
+    "Id": null,
+    "Name": "Lifehacker.jp"
+    },
+    "publishedAt": "2023-06-13T10:45:00Z",
+    "url": "https://www.lifehacker.jp/article/machi-ya-bushipswatch-review/"
+    },
+    {
+    "title": "Vision Pro、中国では「Vision Pro」じゃないかも",
+    "author": "そうこ",
+    "source": {
+    "Id": null,
+    "Name": "Gizmodo.jp"
+    },
+    "publishedAt": "2023-06-13T08:00:00Z",
+    "url": "https://www.gizmodo.jp/2023/06/vision-pro-trademark-in-china.html"
+    },
+    {
+    "title": "インディーズシーンを支えるのはある\"サービス\"だった。Tani Yuuki、舐達麻らが利用するTuneCore Japanとは？",
+    "author": "巽英俊",
+    "source": {
+    "Id": null,
+    "Name": "Gizmodo.jp"
+    },
+    "publishedAt": "2023-06-13T09:30:00Z",
+    "url": "https://www.gizmodo.jp/2023/06/tune-core-japan-award.html"
+    },
+    {
+    "title": "Le “Vision Pro” pourrait déjà changer de nom, la faute à Huawei",
+    "author": "Tristan",
+    "source": {
+    "Id": null,
+    "Name": "Journal du geek"
+    },
+    "publishedAt": "2023-06-13T08:30:21Z",
+    "url": "https://www.journaldugeek.com/2023/06/13/le-vision-pro-pourrait-deja-changer-de-nom-la-faute-a-huawei/"
+    },
+    {
+    "title": "Pratique, cette double prise connectée Meross est à -50%",
+    "author": "Chris Klippel",
+    "source": {
+    "Id": null,
+    "Name": "Journal du geek"
+    },
+    "publishedAt": "2023-06-13T08:15:20Z",
+    "url": "https://www.journaldugeek.com/bon-plan/pratique-cette-double-prise-connectee-meross-est-a-50/"
+    },
+    {
+    "title": "Sur Netflix, la fin du partage de compte fonctionne finalement comme prévu",
+    "author": "Amandine Jonniaux",
+    "source": {
+    "Id": null,
+    "Name": "Journal du geek"
+    },
+    "publishedAt": "2023-06-13T08:00:14Z",
+    "url": "https://www.journaldugeek.com/2023/06/13/sur-netflix-la-fin-du-partage-de-compte-fonctionne-finalement-comme-prevu/"
+    },
+    {
+    "title": "À ce prix déjanté, le Xiaomi 13 est le meilleur smartphone premium du marché (-38%) ",
+    "author": "Sebastian Danila",
+    "source": {
+    "Id": null,
+    "Name": "Journal du geek"
+    },
+    "publishedAt": "2023-06-13T10:45:15Z",
+    "url": "https://www.journaldugeek.com/bon-plan/a-ce-prix-dejante-le-xiaom-13-devient-le-meilleur-smartphone-premium-du-marche/"
+    },
+    {
+    "title": "Huawei le \"robó\" la marca Vision Pro a Apple en China y no parece que haya solución fácil. Al menos hasta 2031",
+    "author": "Isra Fdez",
+    "source": {
+    "Id": null,
+    "Name": "Applesfera.com"
+    },
+    "publishedAt": "2023-06-13T12:01:41Z",
+    "url": "https://www.applesfera.com/vision-pro/huawei-le-robo-marca-vision-pro-a-apple-china-no-parece-que-haya-solucion-facil-al-2031"
+    },
+    {
+    "title": "El Corte Inglés rebaja los iPhone 14, MacBook Air M2 y otros dispositivos Apple por solo unos días",
+    "author": "Jesús Quesada",
+    "source": {
+    "Id": null,
+    "Name": "Applesfera.com"
+    },
+    "publishedAt": "2023-06-13T11:31:41Z",
+    "url": "https://www.applesfera.com/seleccion/corte-ingles-rebaja-iphone-14-macbook-air-m2-otros-dispositivos-apple-solo-unos-dias"
+    },
+    {
+    "title": "No es un portátil gaming, pero MediaMarkt rebaja todavía más que Apple este MacBook con batería \"inagotable\" e increíble pantalla",
+    "author": "Jesús Quesada",
+    "source": {
+    "Id": null,
+    "Name": "Applesfera.com"
+    },
+    "publishedAt": "2023-06-13T07:42:11Z",
+    "url": "https://www.applesfera.com/seleccion/no-portatil-gaming-mediamarkt-rebaja-todavia-que-apple-este-macbook-bateria-inagotable-e-increible-pantalla"
+    },
+    {
+    "title": "Este youtuber rompe un iPhone para ver cuánto tardan en reparar su pantalla y descubre algo que deja a Samsung en muy mal lugar",
+    "author": "Fran Bouzas",
+    "source": {
+    "Id": null,
+    "Name": "Applesfera.com"
+    },
+    "publishedAt": "2023-06-13T08:00:12Z",
+    "url": "https://www.applesfera.com/curiosidades/este-youtuber-rompe-iphone-para-ver-cuanto-tardan-reparar-su-pantalla-descubre-algo-que-deja-a-samsung-muy-mal-lugar"
+    },
+    {
+    "title": "Cómo pedir el Bono Cultural Joven 2023 desde tu Mac",
+    "author": "Miguel López",
+    "source": {
+    "Id": null,
+    "Name": "Applesfera.com"
+    },
+    "publishedAt": "2023-06-13T10:41:41Z",
+    "url": "https://www.applesfera.com/tutoriales/como-pedir-bono-cultural-joven-2023-tu-mac"
+    },
+    {
+    "title": "Cómo volver a iOS 16 si has instalado la beta de iOS 17 en tu iPhone",
+    "author": "Miguel López",
+    "source": {
+    "Id": null,
+    "Name": "Applesfera.com"
+    },
+    "publishedAt": "2023-06-13T09:07:41Z",
+    "url": "https://www.applesfera.com/tutoriales/como-volver-a-ios-16-has-instalado-beta-ios-17-tu-iphone"
+    },
+    {
+    "title": "Quel est ce produit Apple très attendu ? (rendez-vous en 2025)",
+    "author": "Setra",
+    "source": {
+    "Id": null,
+    "Name": "Presse-citron"
+    },
+    "publishedAt": "2023-06-13T09:00:43Z",
+    "url": "https://www.presse-citron.net/quel-est-ce-produit-apple-tres-attendu-rendez-vous-en-2025/"
+    },
+    {
+    "title": "Here's why Adobe Express' new features could be preparing for Apple Vision Pro",
+    "author": "daryl.baxter@futurenet.com (Daryl Baxter)",
+    "source": {
+    "Id": null,
+    "Name": "iMore"
+    },
+    "publishedAt": "2023-06-13T11:01:24Z",
+    "url": "https://www.imore.com/gaming/virtual-reality/heres-why-adobe-express-new-features-could-be-preparing-for-apple-vision-pro"
+    },
+    {
+    "title": "How to download the official macOS Sonoma wallpaper today",
+    "author": "john-anthony.disotto@futurenet.com (John-Anthony Disotto)",
+    "source": {
+    "Id": null,
+    "Name": "iMore"
+    },
+    "publishedAt": "2023-06-13T09:39:59Z",
+    "url": "https://www.imore.com/mac/how-to-download-the-official-macos-sonoma-wallpaper-today"
+    },
+    {
+    "title": "Ryan Reynolds And Kenneth Branagh To Lead Action Comedy Mayday From Dungeons & Dragons Directors",
+    "author": "staff@slashfilm.com (Ethan Anderton)",
+    "source": {
+    "Id": null,
+    "Name": "/FILM"
+    },
+    "publishedAt": "2023-06-13T03:00:05Z",
+    "url": "https://www.slashfilm.com/1309742/everything-we-know-about-mayday-starring-ryan-reynolds-kenneth-branagh/"
+    },
+    {
+    "title": "Actualité : Apple travaillerait déjà sur une version plus abordable du Vision Pro",
+    "author": "Laure Renouard",
+    "source": {
+    "Id": null,
+    "Name": "Les Numériques"
+    },
+    "publishedAt": "2023-06-13T06:04:00Z",
+    "url": "https://www.lesnumeriques.com/casque-realite-augmentee/apple-travaillerait-deja-sur-une-version-plus-abordable-du-vision-pro-n210503.html"
+    },
+    {
+    "title": "Netflix, su cambio de opinión sobre los deportes en vivo y el cambio de paradigma del streaming",
+    "author": "Álvaro García M.",
+    "source": {
+    "Id": null,
+    "Name": "Xatakamovil.com"
+    },
+    "publishedAt": "2023-06-13T09:31:40Z",
+    "url": "https://www.xatakamovil.com/streaming/netflix-su-cambio-opinion-deportes-vivo-cambio-paradigma-streaming"
+    },
+    {
+    "title": "Apple TV+: Dokumentation über Lionel Messi in der Mache",
+    "author": "Olli",
+    "source": {
+    "Id": null,
+    "Name": "Caschys Blog"
+    },
+    "publishedAt": "2023-06-13T04:30:28Z",
+    "url": "https://stadt-bremerhaven.de/apple-tv-dokumentation-ueber-lionel-messi-in-der-mache/"
+    },
+    {
+    "title": "Le Mac, un marginalisé du monde du gaming : une transformation est-elle en cours ?",
+    "author": "Ulrich Rozier",
+    "source": {
+    "Id": null,
+    "Name": "Frandroid"
+    },
+    "publishedAt": "2023-06-13T08:44:11Z",
+    "url": "https://www.frandroid.com/produits-android/console/1716307_le-mac-un-marginalise-du-monde-du-gaming-une-transformation-est-elle-en-cours"
+    },
+    {
+    "title": "La Xiaomi Pad 5 est une bien meilleure tablette après 150 € de réduction environ",
+    "author": "Axel Savoye",
+    "source": {
+    "Id": null,
+    "Name": "Frandroid"
+    },
+    "publishedAt": "2023-06-13T09:27:47Z",
+    "url": "https://www.frandroid.com/bons-plans/1716275_la-xiaomi-pad-5-est-une-bien-meilleure-tablette-apres-150-e-de-reduction-environ"
+    },
+    {
+    "title": "Sol Reader: El nuevo rostro de la lectura digital",
+    "author": "Juan Diego Polo",
+    "source": {
+    "Id": null,
+    "Name": "Wwwhatsnew.com"
+    },
+    "publishedAt": "2023-06-13T07:00:24Z",
+    "url": "https://wwwhatsnew.com/2023/06/13/sol-reader-el-nuevo-rostro-de-la-lectura-digital/"
+    },
+    {
+    "title": "Акции Apple рекордно подорожали",
+    "author": "Мария Черкасова",
+    "source": {
+    "Id": "lenta",
+    "Name": "Lenta"
+    },
+    "publishedAt": "2023-06-13T11:40:00Z",
+    "url": "https://lenta.ru/news/2023/06/13/akcii_apple/"
+    },
+    {
+    "title": "Amazon Echo Studio back to its lower price $160 at Amazon",
+    "author": "Sl1ckDealer",
+    "source": {
+    "Id": null,
+    "Name": "Slickdeals.net"
+    },
+    "publishedAt": "2023-06-13T05:53:27Z",
+    "url": "https://slickdeals.net/f/16710746-amazon-echo-studio-back-to-its-lower-price-160-at-amazon"
+    },
+    {
+    "title": "早报 | 蔚来李斌回应全系降价 / 五月天演唱会退票引争议 / 特斯拉回应上海试点 FSD 传闻",
+    "author": "方嘉文",
+    "source": {
+    "Id": null,
+    "Name": "Ifanr.com"
+    },
+    "publishedAt": "2023-06-13T00:36:59Z",
+    "url": "https://www.ifanr.com/1552266"
+    },
+    {
+    "title": "Apple is a stone's throw away from becoming the first-ever $3 trillion company",
+    "author": "Ananya Bhattacharya",
+    "source": {
+    "Id": null,
+    "Name": "Quartz India"
+    },
+    "publishedAt": "2023-06-13T08:42:00Z",
+    "url": "https://qz.com/apple-shares-stock-market-cap-3-trillion-mark-1850532675"
+    },
+    {
+    "title": "Lionel Messi: Can Argentine's move to Inter Miami revolutionise football in US?",
+    "author": null,
+    "source": {
+    "Id": "bbc-news",
+    "Name": "BBC News"
+    },
+    "publishedAt": "2023-06-13T08:47:13Z",
+    "url": "https://www.bbc.co.uk/sport/football/65877494"
+    },
+    {
+    "title": "Travail du clic et régulation de l’IA agitent la conférence FAccT",
+    "author": "Mathilde Saliou",
+    "source": {
+    "Id": null,
+    "Name": "Next INpact"
+    },
+    "publishedAt": "2023-06-13T11:50:36Z",
+    "url": "https://www.nextinpact.com/article/71876/travail-clic-et-regulation-lia-agitent-conference-facct"
+    },
+    {
+    "title": "New Apple Vision Pro Ad Shows User Standing Chest-Deep In Flood Waters Watching ‘Ted Lasso’",
+    "author": "The Ellen Show",
+    "source": {
+    "Id": null,
+    "Name": "Theonion.com"
+    },
+    "publishedAt": "2023-06-13T10:30:00Z",
+    "url": "https://www.theonion.com/new-apple-vision-pro-ad-shows-user-standing-chest-deep-1850528808"
+    },
+    {
+    "title": "Apple's Biggest Advantage Over Meta in VR",
+    "author": "newsfeedback@fool.com (Travis Hoium)",
+    "source": {
+    "Id": null,
+    "Name": "Motley Fool"
+    },
+    "publishedAt": "2023-06-13T11:45:00Z",
+    "url": "https://www.fool.com/investing/2023/06/13/apples-biggest-advantage-over-meta-in-vr/"
+    },
+    {
+    "title": "Got $1,000? 2 Stocks to Buy for the Long Term",
+    "author": "newsfeedback@fool.com (Dani Cook)",
+    "source": {
+    "Id": null,
+    "Name": "Motley Fool"
+    },
+    "publishedAt": "2023-06-13T09:20:00Z",
+    "url": "https://www.fool.com/investing/2023/06/13/got-1000-2-stocks-to-buy-for-the-long-term/"
+    },
+    {
+    "title": "1 Stock-Split Stock Set to Join Apple, Microsoft, Amazon, and Alphabet in the $1 Trillion Club",
+    "author": "newsfeedback@fool.com (Anthony Di Pizio)",
+    "source": {
+    "Id": null,
+    "Name": "Motley Fool"
+    },
+    "publishedAt": "2023-06-13T09:25:00Z",
+    "url": "https://www.fool.com/investing/2023/06/13/1-stock-split-apple-microsoft-amazon-1-trillion/"
+    },
+    {
+    "title": "3 Simple Reasons Why I'm Not Celebrating a New Bull Market",
+    "author": "newsfeedback@fool.com (Keith Speights)",
+    "source": {
+    "Id": null,
+    "Name": "Motley Fool"
+    },
+    "publishedAt": "2023-06-13T09:50:00Z",
+    "url": "https://www.fool.com/investing/2023/06/13/3-reasons-im-not-celebrating-a-new-bull-market/"
+    },
+    {
+    "title": "Tesla Stock: Headed to $300?",
+    "author": "newsfeedback@fool.com (John Ballard)",
+    "source": {
+    "Id": null,
+    "Name": "Motley Fool"
+    },
+    "publishedAt": "2023-06-13T11:01:00Z",
+    "url": "https://www.fool.com/investing/2023/06/13/tesla-stock-headed-to-300/"
+    },
+    {
+    "title": "Up 27% In 2023, Is It Safe to Invest In the Nasdaq Right Now?",
+    "author": "newsfeedback@fool.com (Stefon Walters)",
+    "source": {
+    "Id": null,
+    "Name": "Motley Fool"
+    },
+    "publishedAt": "2023-06-13T11:11:00Z",
+    "url": "https://www.fool.com/investing/2023/06/13/up-27-in-2023-is-it-safe-to-invest-in-the-nasdaq-r/"
+    },
+    {
+    "title": "WTF are Apple’s Privacy Manifests",
+    "author": "Seb Joseph",
+    "source": {
+    "Id": null,
+    "Name": "Digiday"
+    },
+    "publishedAt": "2023-06-13T04:01:00Z",
+    "url": "http://digiday.com/marketing/wtf-is-apples-privacy-manifests/"
+    },
+    {
+    "title": "Umstrittene Terror-Ermittlungen: Der Messenger Signal als „Kult der Geheimhaltung“",
+    "author": "Markus Reuter",
+    "source": {
+    "Id": null,
+    "Name": "Netzpolitik.org"
+    },
+    "publishedAt": "2023-06-13T10:15:37Z",
+    "url": "https://netzpolitik.org/2023/umstrittene-terror-ermittlungen-der-messenger-signal-als-kult-der-geheimhaltung/"
+    },
+    {
+    "title": "Amazon Prime Day 2023: possible dates and predicted deals",
+    "author": "beren.neale@futurenet.com (Beren Neale)",
+    "source": {
+    "Id": null,
+    "Name": "Creative Bloq"
+    },
+    "publishedAt": "2023-06-13T11:00:42Z",
+    "url": "https://www.creativebloq.com/news/amazon-prime-day-2023-dates"
+    },
+    {
+    "title": "Fed up of Adobe, these designers made their own motion software",
+    "author": "joe.foley@futurenet.com (Joseph Foley)",
+    "source": {
+    "Id": null,
+    "Name": "Creative Bloq"
+    },
+    "publishedAt": "2023-06-13T06:09:24Z",
+    "url": "https://www.creativebloq.com/features/cavalry-2d-motion-design-software"
+    },
+    {
+    "title": "Mark Zuckerberg carga contra las Apple Vision Pro: \"cuestan 7 veces más\"",
+    "author": "Sergio Agudo",
+    "source": {
+    "Id": null,
+    "Name": "La Vanguardia"
+    },
+    "publishedAt": "2023-06-13T09:01:30Z",
+    "url": "https://www.lavanguardia.com/andro4all/facebook/mark-zuckerberg-carga-contra-las-apple-vision-pro-cuestan-7-veces-mas"
+    },
+    {
+    "title": "Qué es el rebranding, cuándo hacerlo y ejemplos de marcas",
+    "author": "Encarni Arcoya",
+    "source": {
+    "Id": null,
+    "Name": "Creativosonline.org"
+    },
+    "publishedAt": "2023-06-13T07:03:19Z",
+    "url": "https://www.creativosonline.org/rebranding.html"
+    },
+    {
+    "title": "Samsung Galaxy S24 Ultra: Kameraausstattung wird wohl enttäuschen!",
+    "author": "Jade Bryan",
+    "source": {
+    "Id": null,
+    "Name": "Nextpit.de"
+    },
+    "publishedAt": "2023-06-13T05:00:00Z",
+    "url": "https://www.nextpit.de/samsung-galaxy-s24-ultra-kameraausstattung-abschreckend"
+    },
+    {
+    "title": "Yes, Trump Supporters, Functioning Democracies Can Prosecute Former Leaders",
+    "author": "Matt Ford",
+    "source": {
+    "Id": null,
+    "Name": "The New Republic"
+    },
+    "publishedAt": "2023-06-13T10:00:00Z",
+    "url": "https://newrepublic.com/article/173576/yes-trump-supporters-functioning-democracies-can-prosecute-former-leaders"
+    },
+    {
+    "title": "Aqara G4: Video-Türklingel mit Top-Bewertungen so günstig wie nie",
+    "author": "Dustin Porth",
+    "source": {
+    "Id": null,
+    "Name": "Nextpit.de"
+    },
+    "publishedAt": "2023-06-13T09:00:01Z",
+    "url": "https://www.nextpit.de/aqara-g4-video-tuerklingel-mit-top-bewertungen-so-guenstig-wie-nie"
+    },
+    {
+    "title": "\"¿Berlusconi? Siempre se dijo que quiso comprar el Inter...\"",
+    "author": "Sergio F. Núñez",
+    "source": {
+    "Id": "marca",
+    "Name": "Marca"
+    },
+    "publishedAt": "2023-06-13T04:34:21Z",
+    "url": "https://www.marca.com/radio/marca-daily/2023/06/13/648748b8268e3ec0298b45c4.html"
+    },
+    {
+    "title": "Dass er keine Frau habe, sei ein großes Problem im Leben des Angeklagten gewesen",
+    "author": "WELT",
+    "source": {
+    "Id": null,
+    "Name": "DIE WELT"
+    },
+    "publishedAt": "2023-06-13T10:28:05Z",
+    "url": "https://www.welt.de/vermischtes/kriminalitaet/article245837782/Illerkirchberg-Prozess-Angeklagter-beim-Mord-an-Ece-S-vor-Gericht.html"
+    },
+    {
+    "title": "Epstein-Opfer erhalten 290 Millionen Dollar Entschädigung",
+    "author": "WELT",
+    "source": {
+    "Id": null,
+    "Name": "DIE WELT"
+    },
+    "publishedAt": "2023-06-13T08:51:38Z",
+    "url": "https://www.welt.de/vermischtes/prominente/article245834098/Prostitution-Minderjaehriger-Epstein-Opfer-erhalten-290-Millionen-Dollar-Entschaedigung.html"
+    },
+    {
+    "title": "Arbeit an neuem CDU-Grundsatzprogramm findet ohne Kretschmer und Haseloff statt",
+    "author": "WELT",
+    "source": {
+    "Id": null,
+    "Name": "DIE WELT"
+    },
+    "publishedAt": "2023-06-13T09:53:01Z",
+    "url": "https://www.welt.de/politik/deutschland/article245834168/CDU-Grundsatzkonvent-Kretschmer-und-Haseloff-fehlen-wegen-Terminkollision-am-17-Juni.html"
+    },
+    {
+    "title": "Habeck besteht auf Milliarden-Fabriken für den Osten – koste es, was es wolle",
+    "author": "Philipp Vetter",
+    "source": {
+    "Id": null,
+    "Name": "DIE WELT"
+    },
+    "publishedAt": "2023-06-13T08:53:00Z",
+    "url": "https://www.welt.de/wirtschaft/energie/article245826368/Intel-Habeck-besteht-auf-Milliarden-Fabriken-fuer-den-Osten.html"
+    },
+    {
+    "title": "Messis Ferrari 335 S Spider Scaglietti hat ein eigenes Schlafzimmer mit Bahamas-Blick",
+    "author": "Oskar Beck",
+    "source": {
+    "Id": null,
+    "Name": "DIE WELT"
+    },
+    "publishedAt": "2023-06-13T09:41:02Z",
+    "url": "https://www.welt.de/sport/article245806532/Lionel-Messi-Sein-neues-Luxus-Leben-in-Miami.html"
+    },
+    {
+    "title": "« Apple valide technologiquement qu’on fait les choses bien » : le concurrent français du casque Vision Pro se réjouit",
+    "author": "Nicolas Lellouche",
+    "source": {
+    "Id": null,
+    "Name": "Numerama"
+    },
+    "publishedAt": "2023-06-13T08:16:24Z",
+    "url": "https://www.numerama.com/tech/1411602-apple-valide-technologiquement-quon-fait-les-choses-bien-le-concurrent-francais-du-casque-vision-pro-se-rejouit.html"
+    },
+    {
+    "title": "Come usare Apple Maps offline sul vostro iPhone o iPad",
+    "author": "Luca Zaninello",
+    "source": {
+    "Id": null,
+    "Name": "Tomshw.it"
+    },
+    "publishedAt": "2023-06-13T10:00:23Z",
+    "url": "https://www.tomshw.it/smartphone/come-usare-apple-maps-offline-sul-vostro-iphone-o-ipad/"
+    },
+    {
+    "title": "Oltre 200€ di sconto su iPhone 14 Pro Max! AFFARE!",
+    "author": "Valentina Valzania",
+    "source": {
+    "Id": null,
+    "Name": "Tomshw.it"
+    },
+    "publishedAt": "2023-06-13T09:45:50Z",
+    "url": "https://www.tomshw.it/smartphone/oltre-200e-di-sconto-su-iphone-14-pro-max-affare/"
+    },
+    {
+    "title": "Le Borse di oggi, 13 giugno. Inflazione Usa attesa in rallentamento. Record per Apple: vede quota 3mila dollari",
+    "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+    "source": {
+    "Id": "la-repubblica",
+    "Name": "La Repubblica"
+    },
+    "publishedAt": "2023-06-13T05:30:32Z",
+    "url": "https://www.repubblica.it/economia/2023/06/13/diretta/le_borse_di_oggi_13_giugno_inflazione_usa_attesa_in_rallentamento_record_per_apple_vede_quota_3mila_dollari-404266739/"
+    },
+    {
+    "title": "Jimmie Allen scaricato dalla casa discografica per la duplice accusa di violenza sessuale",
+    "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+    "source": {
+    "Id": "la-repubblica",
+    "Name": "La Repubblica"
+    },
+    "publishedAt": "2023-06-13T10:22:54Z",
+    "url": "https://www.repubblica.it/spettacoli/people/2023/06/13/news/la_stoney_creek_records_abbandona_jimmie_allen_per_la_duplice_accusa_di_violenza_sessuale-403955287/"
+    },
+    {
+    "title": "Apple眼鏡傳有平價版「Apple Vision」：螢幕、處理器和感測元件均縮水",
+    "author": "KKJ",
+    "source": {
+    "Id": null,
+    "Name": "Techbang.com"
+    },
+    "publishedAt": "2023-06-13T07:30:00Z",
+    "url": "https://www.techbang.com/posts/107134-apple-vision-pro-glasses-low-exposure-screen-processor-and"
+    },
+    {
+    "title": "拒配合港府擋〈願榮光歸香港〉！Google 可能直接撤離香港？",
+    "author": "Sisley",
+    "source": {
+    "Id": null,
+    "Name": "Inside.com.tw"
+    },
+    "publishedAt": "2023-06-13T06:29:00Z",
+    "url": "https://www.inside.com.tw/article/31901-Google-in-hong-kong"
+    },
+    {
+    "title": "Serie A e diritti tv: serviranno tre abbonamenti dal 2024? Le offerte della Lega (e chi è interessato)",
+    "author": "Alessia Conzonato",
+    "source": {
+    "Id": null,
+    "Name": "Corriere.it"
+    },
+    "publishedAt": "2023-06-13T09:58:50Z",
+    "url": "https://www.corriere.it/economia/aziende/23_giugno_13/diritti-tv-serie-a-serviranno-tre-abbonamenti-seguire-calcio-67096d70-037d-11ee-a0f7-9b25dbe187b3.shtml"
+    },
+    {
+    "title": "iPhone overheating? These are the best (and worst) ways to cool it down",
+    "author": "axel.metz@futurenet.com (Axel Metz)",
+    "source": {
+    "Id": "techradar",
+    "Name": "TechRadar"
+    },
+    "publishedAt": "2023-06-13T12:02:06Z",
+    "url": "https://www.techradar.com/news/iphone-overheating-these-are-the-best-and-worst-ways-to-cool-it-down"
+    },
+    {
+    "title": "SoundPEATS New Engine4 Earbuds Sound Impeccable Even Without ANC",
+    "author": "Mark Sparrow, Senior Contributor, \n Mark Sparrow, Senior Contributor\n https://www.forbes.com/sites/marksparrow/",
+    "source": {
+    "Id": null,
+    "Name": "Forbes"
+    },
+    "publishedAt": "2023-06-13T10:00:00Z",
+    "url": "https://www.forbes.com/sites/marksparrow/2023/06/13/soundpeats-new-engine4-earbuds-sound-impeccable-even-without-anc/"
+    },
+    {
+    "title": "Apple Mac Studio, prime recensioni: tanta potenza in un case compatto e silenzioso",
+    "author": "HDblog.it",
+    "source": {
+    "Id": null,
+    "Name": "Hdblog.it"
+    },
+    "publishedAt": "2023-06-13T09:02:00Z",
+    "url": "https://www.hdblog.it/apple/articoli/n570761/mac-studio-recensioni-internazionali/"
+    },
+    {
+    "title": "Eve Systems acquisita da ABB, grandi ambizioni per la smart home consumer",
+    "author": "HDblog.it",
+    "source": {
+    "Id": null,
+    "Name": "Hdblog.it"
+    },
+    "publishedAt": "2023-06-13T06:50:00Z",
+    "url": "https://www.hdblog.it/domotica/articoli/n570751/eve-systems-abb-acquisizione/"
+    },
+    {
+    "title": "Poly Voyager Free 60+ im Test: HPs In-Ears mit Touchscreen-Ladecase, Dongle und Transmitter",
+    "author": "Frank Hüber",
+    "source": {
+    "Id": null,
+    "Name": "ComputerBase"
+    },
+    "publishedAt": "2023-06-13T10:00:00Z",
+    "url": "https://www.computerbase.de/2023-06/hp-poly-voyager-free-60-test-oled-touchscreen-dongle/"
+    },
+    {
+    "title": "iOS Content & Privacy Restrictions: Cómo fortificar tu iPhone contra un ataque de robo de Passcode",
+    "author": "noreply@blogger.com (Chema Alonso)",
+    "source": {
+    "Id": null,
+    "Name": "Elladodelmal.com"
+    },
+    "publishedAt": "2023-06-13T04:01:00Z",
+    "url": "https://www.elladodelmal.com/2023/06/ios-content-privacy-restrictions-como.html"
+    },
+    {
+    "title": "La serie Apple sul Monsterverse sarà in 3D per supportare il Vision Pro",
+    "author": "Giuseppe Migliorino",
+    "source": {
+    "Id": null,
+    "Name": "Iphoneitalia.com"
+    },
+    "publishedAt": "2023-06-13T06:26:22Z",
+    "url": "https://www.iphoneitalia.com/810368/monarch-legacy-of-monsters-monsterverse-3d-vision-pro-apple"
+    },
+    {
+    "title": "10 notícias de tecnologia para você começar o dia (13/06)",
+    "author": "Carlos Palmeira",
+    "source": {
+    "Id": null,
+    "Name": "Tecmundo.com.br"
+    },
+    "publishedAt": "2023-06-13T06:00:01Z",
+    "url": "https://www.tecmundo.com.br/internet/265147-10-noticias-tecnologia-voce-comecar-dia-13-06.htm"
+    },
+    {
+    "title": "Due To Bitcoin Payments, Apple Bans Nostr Client Damus From App Store",
+    "author": "bitcoinist.com",
+    "source": {
+    "Id": null,
+    "Name": "Biztoc.com"
+    },
+    "publishedAt": "2023-06-13T10:16:07Z",
+    "url": "https://biztoc.com/x/68058d4d8b11c1ba"
+    },
+    {
+    "title": "Oracle stock rises on upbeat outlook, while Apple shares slip and other stocks on the move",
+    "author": "marketwatch.com",
+    "source": {
+    "Id": null,
+    "Name": "Biztoc.com"
+    },
+    "publishedAt": "2023-06-13T10:16:05Z",
+    "url": "https://biztoc.com/x/faf90839673d4f33"
+    },
+    {
+    "title": "India Hits Back At Jack Dorsey Over Claims Of 'Pressure' From Government During Farmers' Protest: 'An Outright Lie'",
+    "author": "benzinga.com",
+    "source": {
+    "Id": null,
+    "Name": "Biztoc.com"
+    },
+    "publishedAt": "2023-06-13T08:08:07Z",
+    "url": "https://biztoc.com/x/d13302817f56e812"
+    },
+    {
+    "title": "LGBTQ workers at the forefront of Chicago’s labor resurgence",
+    "author": "chicagotribune.com",
+    "source": {
+    "Id": null,
+    "Name": "Biztoc.com"
+    },
+    "publishedAt": "2023-06-13T10:12:07Z",
+    "url": "https://biztoc.com/x/6a4cbad1643494e5"
+    },
+    {
+    "title": "「LUMIX S5II」に有償アップデート対応ファームウェアが公開　12bit RAWの出力、Blackmagic RAW/Apple ProRes RAW外部記録が可能に",
+    "author": null,
+    "source": {
+    "Id": null,
+    "Name": "Impress.co.jp"
+    },
+    "publishedAt": "2023-06-13T06:22:52Z",
+    "url": "https://dc.watch.impress.co.jp/docs/news/1508307.html"
+    },
+    {
+    "title": "Meta 万人裁员亲历者自述：小扎尝到了降本的甜头",
+    "author": null,
+    "source": {
+    "Id": null,
+    "Name": "Geekpark.net"
+    },
+    "publishedAt": "2023-06-13T02:03:02Z",
+    "url": "https://www.geekpark.net/news/320536"
+    },
+    {
+    "title": "[Hỏi Tinh tế] Anh em có mua kính Apple Vision Pro không?",
+    "author": "no-reply@tinhte.vn (Pnghuy), Pnghuy",
+    "source": {
+    "Id": null,
+    "Name": "Tinhte.vn"
+    },
+    "publishedAt": "2023-06-13T03:32:26Z",
+    "url": "https://tinhte.vn/thread/hoi-tinh-te-anh-em-co-mua-kinh-apple-vision-pro-khong.3680808/"
+    },
+    {
+    "title": "Our 10 Best Cupcake Recipes",
+    "author": "Michelle",
+    "source": {
+    "Id": null,
+    "Name": "Browneyedbaker.com"
+    },
+    "publishedAt": "2023-06-13T02:28:08Z",
+    "url": "https://www.browneyedbaker.com/10-best-cupcake-recipes/"
+    },
+    {
+    "title": "Apple may have to rename Vision Pro due to Huawei's trademark",
+    "author": "Omer Dursun",
+    "source": {
+    "Id": null,
+    "Name": "Neowin"
+    },
+    "publishedAt": "2023-06-13T10:56:01Z",
+    "url": "https://www.neowin.net/news/apple-may-have-to-rename-vision-pro-due-to-huaweis-trademark/"
+    },
+    {
+    "title": "Western European PC shipments were down in Q1, but growth is on the horizon",
+    "author": "Paul Hill",
+    "source": {
+    "Id": null,
+    "Name": "Neowin"
+    },
+    "publishedAt": "2023-06-13T09:20:01Z",
+    "url": "https://www.neowin.net/news/western-european-pc-shipments-were-down-in-q1-but-growth-is-on-the-horizon/"
+    },
+    {
+    "title": "Netflix in talks to live stream its first sports event later this year, says report",
+    "author": "Aditya Tiwari",
+    "source": {
+    "Id": null,
+    "Name": "Neowin"
+    },
+    "publishedAt": "2023-06-13T11:20:02Z",
+    "url": "https://www.neowin.net/news/netflix-in-talks-to-live-stream-its-first-sports-event-later-this-year-says-report/"
+    },
+    {
+    "title": "Imaginary Forces | City on Fire Main Title Sequence",
+    "author": "Staff",
+    "source": {
+    "Id": null,
+    "Name": "Motionographer.com"
+    },
+    "publishedAt": "2023-06-13T07:57:01Z",
+    "url": "https://motionographer.com/quickie/imaginary-forces-city-on-fire-main-title-sequence/"
+    }
+    ]
+    }
