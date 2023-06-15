@@ -9,7 +9,9 @@
     "bootstrap": "^3.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.13.0",
     "react-scripts": "5.0.1",
+    "router-dom": "^2.2.11",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -20,8 +22,7 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.16.0"
-
-  },  
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
