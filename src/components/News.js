@@ -291,20 +291,20 @@ export class News extends Component   {
       }
     }
 
-    async componentDidMount()
-    {
-      console.log("Inside Component Did Mount");
-      let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=750ba9ee26334e06932f8026332a2b3d&pageSize=${this.props.pageSize}&page=1`;
-      this.setState({ loading : true }); 
-      let data = await fetch(url);
-      let parsedData = await data.json();
-      console.log(parsedData);
-      this.setState({
-         articles: parsedData.articles,
-         totalArticles: parsedData.totalResults,
-         loading : false        
-        });
-    }   
+    // async componentDidMount()
+    // {
+    //   console.log("Inside Component Did Mount");
+    //   let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=750ba9ee26334e06932f8026332a2b3d&pageSize=${this.props.pageSize}&page=1`;
+    //   this.setState({ loading : true }); 
+    //   let data = await fetch(url);
+    //   let parsedData = await data.json();
+    //   console.log(parsedData);
+    //   this.setState({
+    //      articles: parsedData.articles,
+    //      totalArticles: parsedData.totalResults,
+    //      loading : false        
+    //     });
+    // }   
 
     handlePrevclick = async () =>
     {
