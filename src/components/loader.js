@@ -11,4 +11,4 @@ export class loader extends Component {
   }
 }
 
-export default loader
+export default loader;

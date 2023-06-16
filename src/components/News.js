@@ -7,7 +7,7 @@ export class News extends Component   {
 
     static defaultProps = {
       country : 'in',
-      pageSize : 9,
+      pageSize : 8,
       category : 'general'
     }
 
@@ -184,7 +184,7 @@ export class News extends Component   {
       "url": "https://www.foxbusiness.com/technology/twitter-ceo-linda-yaccarino-sites-goal-worlds-most-accurate-real-time-information-source",
       "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/Linda-Y.jpg?ve=1&tl=1",
       "publishedAt": "2023-06-13T00:26:56Z",
-      "content": "New Twitter CEO Linda Yaccarino told employees on Monday that she shares her bosses' passion for unfiltered free speech on the social media platform. \r\nIn a memo titled \"Building Twitter 2.0 Together… [+1568 chars]"
+      "content": "New Twitter CEO Linda Yaccarino told employees on Monday that she shares her bosses' passion for unfiltered free speech on the social media platform. \r\nIn a memo titled \"Building Twitter 2.0 Together… [+1568 chars]"
     },
     {
       "source": {
@@ -285,26 +285,27 @@ export class News extends Component   {
       super();
       // console.log("Hello I am contructor from news components");
       this.state = {
-        articles: this.articles,
-        loading : true,
+        articles : [],
+        // articles: this.articles,
+        loading : false,
         page : 1
       }
     }
 
-    // async componentDidMount()
-    // {
-    //   console.log("Inside Component Did Mount");
-    //   let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=750ba9ee26334e06932f8026332a2b3d&pageSize=${this.props.pageSize}&page=1`;
-    //   this.setState({ loading : true }); 
-    //   let data = await fetch(url);
-    //   let parsedData = await data.json();
-    //   console.log(parsedData);
-    //   this.setState({
-    //      articles: parsedData.articles,
-    //      totalArticles: parsedData.totalResults,
-    //      loading : false        
-    //     });
-    // }   
+    async componentDidMount()
+    {
+      console.log("Inside Component Did Mount");
+      let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=750ba9ee26334e06932f8026332a2b3d&pageSize=${this.props.pageSize}`;
+      this.setState({ loading : true }); 
+      let data = await fetch(url);
+      let parsedData = await data.json();
+      console.log(parsedData);
+      this.setState({
+         articles: parsedData.articles,
+         totalArticles: parsedData.totalResults,
+         loading : false        
+        });
+    }   
 
     handlePrevclick = async () =>
     {
@@ -338,21 +339,19 @@ export class News extends Component   {
         });
       }
     }
+
   render() {
     return (
       <div className='container my-3'>
         <h1 className='text-center' styles= {{ margin : '35px 0px'}}>NewTown - Top Headlines</h1>
         {this.state.loading && <Loader /> }
-        
         <div className='row'>
-        {
-          !this.state.loading && this.state.articles.map((element) =>
+          {!this.state.loading && this.state.articles.map((element) =>
           {
             return <div className='col-md-4' key = {element.url}>
-            <NewsItems title={element.title?element.title.slice(0,40):""} description={element.description?element.description.slice(0,88):""} imgUrl = {element.urlToImage} newsUrl = {element.url} author = {element.author} date = {element.publishedAt} />
+            <NewsItems title={element.title?element.title.slice(0,40):""} description={element.description?element.description.slice(0,88):""} imgUrl = {element.urlToImage} newsUrl = {element.url} author = {element.author} date = {element.publishedAt} source = {element.source.name} />
           </div>
-          }
-        )}
+          })}
         </div>
         <div className = 'container d-flex justify-content-between'>
           <button disabled = { this.state.page <= 1 } type = "button" className = "btn btn-dark mx-2 my-1" onClick = { this.handlePrevclick }> &larr; Previous</button>
