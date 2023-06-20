@@ -336,20 +336,24 @@ export class News extends Component   {
     return (
       <div className='container my-3'>
         <h1 className='text-center' styles= {{ margin: '35px 0px', marginTop: '90px' }}>NewTown - Top Headlines from {this.capitalizedFirstLetter(this.props.category)} category</h1>
-        {this.state.loading && <Loader /> } 
-        <InfiniteScroll 
-          dataLength={this.state.articles.length}
-          next={this.fetchMoreData}
-          hasMore={this.state.articles.length !== this.state.totalResults}
-          loader={<Loader />}
-        >
-        <div className='row'>
-          {this.state.articles.map((element) =>
-          {
-            return <div className='col-md-4' key = {element.url}>
-            <NewsItems title={element.title?element.title.slice(0,40):""} description={element.description?element.description.slice(0,88):""} imgUrl = {element.urlToImage} newsUrl = {element.url} author = {element.author} date = {element.publishedAt} source = {element.source.name} />
+          {this.state.loading && <Loader /> } 
+          <InfiniteScroll 
+            dataLength={this.state.articles.length}
+            next={this.fetchMoreData}
+            hasMore={this.state.articles.length !== this.state.totalResults}
+            loader={<Loader />}
+          >
+          <div className='container'>
+            <div className='row'>
+            {
+              this.state.articles.map((element) =>
+              {
+                return <div className='col-md-4' key = {element.url}>
+                <NewsItems title={element.title?element.title.slice(0,40):""} description={element.description?element.description.slice(0,88):""} imgUrl = {element.urlToImage} newsUrl = {element.url} author = {element.author} date = {element.publishedAt} source = {element.source.name} />
+            </div>
+              }
+            )}
           </div>
-          })}
         </div>
         </InfiniteScroll>
       </div>
